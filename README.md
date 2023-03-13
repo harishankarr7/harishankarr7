@@ -1,13 +1,7 @@
-### <div align="center">I'm Harishankar Ravindran, a full-time full-stack developer 👨‍💻 working remotely since 2018 🚀</div>  
+### <div align="center">I'm Harishankar Ravindran, a Computer Science grad student, studying at Clemson University. 🚀</div>  
   
 
-- 🔭 I’m currently working on docker  
-  
-
-- 🌱 I’m currently learning Microservices  
-  
-
-- ❓ Ask me about anything related to AWS stack and related technologies  
+- 🔭 I am currently focusing on contritbuting to open source and I am learning new algorithms everyday  
   
 
 <br/>  
